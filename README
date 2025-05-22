@@ -1,3 +1,8 @@
+## TODO: 
+- Identify benchmarks to be updated, scaled, and retired. 
+- Explore CUDA Toolkit and new optimizations (update TensorCores) for suitability with current GPU architecture. 
+
+
 Rodinia Benchmark Suite 3.1
 ===========================
 
