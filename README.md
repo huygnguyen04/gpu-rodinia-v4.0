@@ -9,6 +9,8 @@ Download Link: https://www.cs.virginia.edu/~skadron/lava/rodinia/downloads.html
 
 ### 📄 **[Rodinia BFS Report](https://drive.google.com/file/d/1i8x5kvpJm-GqTta-PAp6gsCNFZhNlsTO/view?usp=drivesdk)** – Full technical analysis of BFS modernization
 
+### **[Rodinia Large Dataset](https://drive.google.com/file/d/1i8x5kvpJm-GqTta-PAp6gsCNFZhNlsTO/view?usp=drivesdk)** – Box with newly added large-scale datasets
+
 ### **[BFS Presentation Slides](https://docs.google.com/presentation/d/1xvqU5VuZZwTaW6En_GH2kvEB1uqpemKHGwTH0Ou_qU4/edit?usp=sharing)** – Slide deck summarizing key findings
 
 ### **[Original Rodinia Paper (IEEE)](https://ieeexplore.ieee.org/document/5306797)** – Che et al., IISWC 2009
